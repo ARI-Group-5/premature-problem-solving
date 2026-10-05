@@ -57,6 +57,10 @@ The team prepared the annotation dataset using the following process:
 8. Removed or excluded [DESCRIBE EXCLUSIONS, IF ANY].
 9. Exported an unlabeled file containing only `item_id`, `context`, and `response`.
 
+## Internal Calibration
+
+Before external annotation, five team members independently labeled the same 20 Context–Response pairs. The calibration results, annotation timing, disagreement patterns, and resulting guideline changes are documented in [calibration-summary.md](calibration-summary.md).
+
 ## Dataset Statistics
 
 | Measurement | Result |
